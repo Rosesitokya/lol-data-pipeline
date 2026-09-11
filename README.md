@@ -20,7 +20,7 @@ Este es un pipeline ETL (Extracción, Transformación y Carga) automatizado que 
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/tu-usuario/lol-meta-analysis.git](https://github.com/Rosesitokya/lol-meta-analysis.git)
+git clone [https://github.com/Rosesitokya/lol-meta-analysis.git](https://github.com/Rosesitokya/lol-meta-analysis.git)
 cd lol-meta-analysis
 
 ### 2. Configurar el entorno virtual y las dependencias
